@@ -1,0 +1,1 @@
+Standard PHP captcha verification.
